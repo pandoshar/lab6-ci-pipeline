@@ -1,4 +1,5 @@
 """Tests for utils module."""
+
 from src.utils import is_even, is_positive
 
 
