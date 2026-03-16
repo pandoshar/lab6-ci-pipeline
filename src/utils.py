@@ -1,4 +1,3 @@
-cat <<EOF > src/utils.py
 """Utility functions."""
 
 
@@ -10,4 +9,3 @@ def is_even(n: int) -> bool:
 def is_positive(n: float) -> bool:
     """Check if number is positive."""
     return n > 0
-EOF
